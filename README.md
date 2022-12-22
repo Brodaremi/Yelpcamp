@@ -1,1 +1,1 @@
-This is a code along project ffrom colt steele
+This is a code along project from colt steele
