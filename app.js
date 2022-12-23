@@ -20,7 +20,7 @@ const passport = require('passport');
 const localStrategy = require('passport-local');
 const { deserialize } = require("v8");
 const { deserializeUser } = require("passport");
-const userRoutes = require('./routes/user')
+const userRoutes = require('./routes/user');
 
 
 
